@@ -5,7 +5,11 @@
 	margin-right: 160px;
 }
 
-.rubrik {
+h1 {
 	margin: auto;
 	text-align: center;
+}
+
+.bilder {
+	margin: auto;
 }
