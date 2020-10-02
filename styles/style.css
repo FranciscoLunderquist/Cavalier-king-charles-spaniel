@@ -1,9 +1,11 @@
-.klass {
-	color: green;
-	background-color: red;
-	font-size: 200%;
+.text {
+	font-size: 110%;
 	text-align: center;
-	width: 200px;
-	height: 150px;
+	margin-left: 160px;
+	margin-right: 160px;
+}
+
+.rubrik {
 	margin: auto;
+	text-align: center;
 }
